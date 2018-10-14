@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Simple Web Map Services Viewer</string>
+    <!--<string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDnFDo2uJB6Lp4b1DV-XJJaIL0xJXwsF4s</string>
+    -->
+    <string name="title_activity_map_viewer">Map</string>
+    <string name="title_home">
+    This app is designed to be your one stop shop for searching for web map services.\n\n
+    Tap on VIEW ALL WMS OPTIONS to see what is currently available through the app.</string>
+    <string name="title_export_dataset">Export Dataset</string>
+    <string name="title_about">About\n
+                            Version: 0.1\n
+                            Support email: tobecreated@email.com</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_all_wms">Web Map Services</string>
+    <string name="large_text">1. Start by tapping the SEARCH FOR WMS button to view available sources.\n
+                            2. Enter the ID number of the web map service you wish to view.\n
+                            3. Tap on the OPEN WMS OVER MAP button to overlay the web map service
+                                over Google Maps.</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
